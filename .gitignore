@@ -1,0 +1,15 @@
+# Python Files
+__pycache__/
+
+# Mac OS Files
+.DS_Store
+
+# SQL Files
+*.sqlite3
+
+# IDE Files
+.idea/
+
+# Environment files
+env/
+venv/
